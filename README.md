@@ -2,4 +2,4 @@
 for my corse
 
 
-##project nots
+##project notes
